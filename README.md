@@ -24,11 +24,11 @@ This project is an experiment in using AI to support narrative and bring emotion
 ##  Demo Video
 
 Watch the demo with subtitles here:  
-👉 [Watch on YouTube](https://youtu.be/cbuaiLRno8k)
+ [Watch on YouTube](https://youtu.be/cbuaiLRno8k)
 
 *(Note: Due to plan limitations, the video features subtitles instead of active voice interaction.)*
 
-## 🧰 Technologies Used
+##  Technologies Used
 
 - Unreal Engine 5  
 - Convai Plugin  
